@@ -5,7 +5,7 @@ require_once 'include_funcs.php';
 $date_query_ozon = $_GET['date_query_ozon'];
 
 // Получаем списрк заказов готовых к отправлению
-$res = get_all_waiting_posts_for_need_date($token, $client_id, $date_query_ozon, "awaiting_deliver");
+$res = get_all_waiting_posts_for_need_date($token, $client_id, $date_query_ozon, "awaiting_deliver",0);
 
 // echo "<pre>";
 // print_r($res);

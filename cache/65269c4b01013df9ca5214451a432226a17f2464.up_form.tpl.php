@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-06-07 13:29:30
+/* Smarty version 4.1.0, created on 2023-06-09 13:12:12
   from 'C:\xampp\htdocs\ozon_sm\templates\up_form.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_64806a1ab8c505_71974553',
+  'unifunc' => 'content_6483090cad1458_06016980',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 120,
 ),true)) {
-function content_64806a1ab8c505_71974553 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6483090cad1458_06016980 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="container-fluid">
 
@@ -41,7 +41,7 @@ function content_64806a1ab8c505_71974553 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="col-md-4 pb-1 mt-2">
           <label class="form-label ">Дата запроса</label>
-          <input required type="date" name="date_query_ozon" value="2023-06-08">
+          <input required type="date" name="date_query_ozon" value="2023-06-13">
       </div>
 
       <div class="col-md-4 pb-1 mt-2">
