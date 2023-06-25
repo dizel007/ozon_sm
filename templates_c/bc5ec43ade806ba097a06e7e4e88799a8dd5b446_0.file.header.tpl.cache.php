@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-06-09 13:12:18
+/* Smarty version 4.1.0, created on 2023-06-14 10:22:04
   from 'C:\xampp\htdocs\ozon_sm\templates\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_64830912c8b0d9_00176049',
+  'unifunc' => 'content_648978ac2a0816_73678811',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64830912c8b0d9_00176049 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '94099149464830912c5e1f6_31206388';
+function content_648978ac2a0816_73678811 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1897777095648978ac26feb2_71797548';
 ?>
 <HTML>
 <head>

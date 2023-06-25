@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-06-09 13:07:45
+/* Smarty version 4.1.0, created on 2023-06-14 06:29:16
   from 'C:\xampp\htdocs\ozon_sm\templates\1c_zakaz.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_64830801d89e62_36324786',
+  'unifunc' => 'content_6489421cb98601_25878358',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64830801d89e62_36324786 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '169755402364830801d7c374_50557384';
+function content_6489421cb98601_25878358 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '4479707966489421cb88769_56086948';
 ?>
 <div class="row">
         <div class="card col-md-12 shadow mt-3 pt-1">

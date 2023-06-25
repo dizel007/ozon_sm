@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-06-09 13:12:18
+/* Smarty version 4.1.0, created on 2023-06-14 10:22:04
   from 'C:\xampp\htdocs\ozon_sm\templates\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_64830912c95b10_91242672',
+  'unifunc' => 'content_648978ac2a86d5_15783923',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 120,
 ),true)) {
-function content_64830912c95b10_91242672 (Smarty_Internal_Template $_smarty_tpl) {
+function content_648978ac2a86d5_15783923 (Smarty_Internal_Template $_smarty_tpl) {
 ?><HTML>
 <head>
      <meta charset="UTF-8">

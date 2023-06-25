@@ -191,7 +191,7 @@ $ozon_dop_url = "v4/posting/fbs/ship";
 
 /* раскоментировать для работы */
 
-// $res['obmen'] = send_injection_on_ozon($token, $client_id, $send_data_arr_js, $ozon_dop_url );
+$res['obmen'] = send_injection_on_ozon($token, $client_id, $send_data_arr_js, $ozon_dop_url );
 return $res;
 };
 
